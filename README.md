@@ -70,7 +70,7 @@ The language that I will demonstarte for you to built your Push Initiator is the
     
  If the data was pushed successfully you will get the following message: The request has been accepted for processing.
  
- 3. After that your Initiator Push is ready to use, you need to build a Push Enabled (client side that will be loaded in your device), you can see the following tutorial that is derived from the PushCapture by visiting: https://github.com/sekkalhidaya/Push-Enabled-Webworks  
+ 3.After that your Initiator Push is ready to use, you need to build a Push Enabled (client side that will be loaded in your device), you can see the following tutorial that is derived from the PushCapture by visiting: https://github.com/sekkalhidaya/Push-Enabled-Webworks  
  
     
       
