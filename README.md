@@ -15,10 +15,10 @@ The language that I will demonstarte for you to built your Push Initiator is the
  
  Initialize your data in PHP:
  
-								  				// APP ID provided by RIM
-								      $appid = 'xxxx-xxx...xxx';
-								  		  // Password provided by RIM for the Push Initiator
-								   		 $password = 'xxxx';
+									// APP ID provided by RIM
+									$appid = 'xxxx-xxx...xxx';
+									// Password provided by RIM for the Push Initiator
+									$password = 'xxxx';
 
   Get the data that you want to push, for example in this case we are trying to push information as PIN number (or even to  be used for the authentification to get a special information about the device):
     
